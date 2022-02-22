@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+.firstsec {
+  position: absolute;
+  width: 100%;
+  height: 888px;
+  left: -1px;
+  top: 0px;
+  background: url("img/фон.jpg");
+}
+
+.fimg {
+  position: absolute;
+  width: 182.09px;
+  height: 51px;
+  left: 868px;
+  top: 70px;
+}
+
+.p1 {
+  position: absolute;
+  width: 315.16px;
+  height: 25px;
+  left: 802px;
+  top: 261px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ffffff;
+}
+
+.firsth1 {
+  position: absolute;
+  width: 932px;
+  height: 86px;
+  left: 600px;
+  top: 286px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 87px;
+  font-variant: small-caps;
+  color: #ffffff;
+}
+
+.fh2 {
+  position: absolute;
+  width: 589px;
+  height: 57px;
+  left: 665px;
+  top: 375px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 42px;
+  line-height: 57px;
+  color: #ffffff;
+}
+
+.fbtn {
+  position: absolute;
+  width: 307.58px;
+  height: 100px;
+  left: 806px;
+  top: 482px;
+  background: none;
+  border: none;
+  color: #ffffff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  text-align: justify;
+}
+
+svg {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  align-items: center;
+}
+
+svg:hover {
+  background: #a9a32a;
+}
+
+.socimg {
+  position: absolute;
+  width: 166.12px;
+  height: 30.03px;
+  left: 876px;
+  top: 832px;
+}
+
+.p2 {
+  position: absolute;
+  left: 74px;
+  top: 41px;
+}
+
+.sec2 {
+  position: absolute;
+  width: 1199px;
+  height: 763px;
+  left: 360px;
+  top: 1050px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.solarfirm {
+  position: absolute;
+  width: 600px;
+  height: 550px;
+  left: 959px;
+  top: 53px;
+}
+
+.sech2 {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 33px;
+  color: #868585;
+}
+
+.fh3 {
+  font-size: 18px;
+  line-height: 25px;
+  color: #000000;
+}
+
+.p3 {
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: normal;
+  color: #303030;
+}

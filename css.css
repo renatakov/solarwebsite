@@ -238,17 +238,47 @@
   border: none;
 }
 
-/* .svg2 {
-  border-radius: 50%;
-  align-items: center;
+.blockinfdiv {
+  position: absolute;
+  width: 510px;
+  height: 214px;
+  left: 360px;
+  top: 2300px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
 }
 
-.svg3{
-  border-radius: 50%;
-  align-items: center;
+.inf1h3 {
+  position: absolute;
+  width: 160px;
+  height: 25px;
+  left: 90%;
+  top: 0px;
 }
 
-.svg2:hover,
-.svg3:hover{
-  color: #a9a32a;
-} */
+.p6{
+  position: absolute;
+  width: 160px;
+  height: 25px;
+  left: 91%;
+  top: 30px;
+}
+
+.inf3h3{
+  position: absolute;
+  width: 160px;
+  height: 25px;
+  left: 91%;
+  top: 140px;
+}
+
+.p8{
+  position: absolute;
+  width: 160px;
+  height: 25px;
+  left: 91%;
+  top: 170px;
+}

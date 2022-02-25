@@ -414,3 +414,152 @@
   top: 50px;
   color: #000000;
 }
+
+.sec6 {
+  position: absolute;
+  width: 1200px;
+  height: 730px;
+  left: 360px;
+  top: 4173px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.fiveh2 {
+  color: #868585;
+}
+
+.rect13 {
+  position: absolute;
+  left: 940px;
+  top: 22px;
+}
+
+footer {
+  position: absolute;
+  width: 1900px;
+  height: 730px;
+  left: 0px;
+  top: 5053px;
+  background-image: url("img/Rectangle\ 13.png");
+}
+
+.leaveh2 {
+  position: absolute;
+  width: 232px;
+  height: 33px;
+  left: 360px;
+  top: 70px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 33px;
+  color: #ffffff;
+}
+
+#nameinp {
+  position: absolute;
+  width: 510px;
+  height: 30px;
+  left: 359px;
+  top: 163px;
+  border-bottom: 1px solid #ffffff;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: none;
+  color: white;
+}
+
+#numinp {
+  position: absolute;
+  width: 510px;
+  height: 30px;
+  left: 359px;
+  top: 253px;
+  border-bottom: 1px solid #ffffff;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: none;
+  color: white;
+}
+
+::-webkit-input-placeholder {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
+
+.leavebtn {
+  position: absolute;
+  width: 307.58px;
+  height: 100px;
+  left: 359px;
+  top: 343px;
+  background: none;
+  border: none;
+  color: #ffffff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  text-align: justify;
+}
+
+.svg123 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  align-items: center;
+}
+
+.svg123:hover {
+  background: #a9a32a;
+}
+
+.p18 {
+  position: absolute;
+  width: 256px;
+  height: 25px;
+  left: 68px;
+  top: 50px;
+  color: #ffffff;
+}
+
+.contacts {
+  position: absolute;
+  width: 600px;
+  height: 317px;
+  left: 960px;
+  top: 70px;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
+
+.p20 {
+  position: absolute;
+  width: 212px;
+  height: 16px;
+  left: 360px;
+  top: 640px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  color: #ffffff;
+}
+
+.lastimg {
+  position: absolute;
+  width: 182px;
+  height: 51px;
+  left: 869px;
+  top: 630px;
+}
+
+.socimg1 {
+  position: absolute;
+  width: 166.04px;
+  height: 30.03px;
+  left: 1393px;
+  top: 631px;
+}

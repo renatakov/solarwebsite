@@ -259,7 +259,7 @@
   top: 0px;
 }
 
-.p6{
+.p6 {
   position: absolute;
   width: 160px;
   height: 25px;
@@ -267,7 +267,7 @@
   top: 30px;
 }
 
-.inf3h3{
+.inf3h3 {
   position: absolute;
   width: 160px;
   height: 25px;
@@ -275,10 +275,142 @@
   top: 140px;
 }
 
-.p8{
+.p8 {
   position: absolute;
   width: 160px;
   height: 25px;
   left: 91%;
   top: 170px;
+}
+
+.p9 {
+  position: absolute;
+  width: 600px;
+  height: 130px;
+  left: 1280px;
+  top: 1850px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  color: #303030;
+}
+
+.rect8 {
+  position: absolute;
+  left: 1280px;
+  top: 2056px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  color: #303030;
+}
+
+.sec4 {
+  position: absolute;
+  width: 1920px;
+  height: 500px;
+  left: 0px;
+  top: 2878px;
+  background-image: url("img/rect10.png");
+}
+
+.p10 {
+  position: absolute;
+  width: 673px;
+  height: 228px;
+  left: 623px;
+  top: 128px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 42px;
+  line-height: 57px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.ourclients {
+  position: absolute;
+  width: 275px;
+  height: 33px;
+  left: 361px;
+  top: 3528px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 33px;
+  color: #868585;
+}
+
+.rect12 {
+  position: absolute;
+  width: 510px;
+  height: 370px;
+  left: 360px;
+  top: 3621px;
+}
+
+.solelectr {
+  position: absolute;
+  width: 478px;
+  height: 50px;
+  left: 961px;
+  top: 3621px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  color: #303030;
+}
+
+.p11 {
+  position: relative;
+  display: grid;
+  left: 1011px;
+  top: 3701px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #303030;
+}
+
+.secbtn {
+  position: absolute;
+  width: 306px;
+  height: 100px;
+  left: 961px;
+  top: 3891px;
+  background: none;
+  border: none;
+  color: #0a0a0a;
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  text-align: justify;
+}
+
+.svg12 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  align-items: center;
+}
+
+.svg12:hover {
+  background: #a9a32a;
+}
+.p12 {
+  position: absolute;
+  width: 256px;
+  height: 25px;
+  left: 68px;
+  top: 50px;
+  color: #000000;
 }
